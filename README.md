@@ -1,5 +1,5 @@
 
-Using Myers edit distanc
+Using Myers edit distance to store diffs in a story graph.
 
 
 ## Example
